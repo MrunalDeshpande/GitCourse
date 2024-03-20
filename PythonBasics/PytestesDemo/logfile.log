@@ -1,0 +1,28 @@
+2024-01-05 04:35:07,593 :INFO : test_logging : Information Statement
+2024-01-05 04:35:07,593 :WARNING : test_logging : Something is in warning mode
+2024-01-05 04:35:07,593 :ERROR : test_logging : A major error has happend
+2024-01-05 04:35:07,593 :CRITICAL : test_logging : Critical Issue
+2024-01-05 04:35:47,944 :INFO : test_logging : Information Statement
+2024-01-05 04:35:47,944 :WARNING : test_logging : Something is in warning mode
+2024-01-05 04:35:47,944 :ERROR : test_logging : A major error has happend
+2024-01-05 04:35:47,944 :CRITICAL : test_logging : Critical Issue
+x2024-01-05 04:38:54,243 :DEBUG : test_logging : A debug statement is executed
+2024-01-05 04:38:54,243 :INFO : test_logging : Information Statement
+2024-01-05 04:38:54,243 :WARNING : test_logging : Something is in warning mode
+2024-01-05 04:38:54,243 :ERROR : test_logging : A major error has happend
+2024-01-05 04:38:54,243 :CRITICAL : test_logging : Critical Issue
+2024-01-05 04:57:57,057 :INFO : PytestesDemo.BaseClass : Mrunal
+2024-01-05 04:57:57,057 :INFO : PytestesDemo.BaseClass : rahulshettyacademy.com
+2024-01-05 05:00:19,134 :INFO : PytestesDemo.BaseClass : Mrunal
+2024-01-05 05:00:19,134 :INFO : PytestesDemo.BaseClass : rahulshettyacademy.com
+2024-01-05 05:02:43,450 :INFO : PytestesDemo.BaseClass : Mrunal
+2024-01-05 05:02:43,450 :INFO : PytestesDemo.BaseClass : rahulshettyacademy.com
+2024-01-05 05:11:58,717 :INFO : test_editProfile : Mrunal
+2024-01-05 05:11:58,719 :INFO : test_editProfile : rahulshettyacademy.com
+2024-01-05 05:14:25,006 :INFO : test_editProfile : Mrunal
+2024-01-05 05:14:25,006 :INFO : test_editProfile : rahulshettyacademy.com
+2024-01-05 05:14:25,022 :DEBUG : PytestesDemo.test_logging : A debug statement is executed
+2024-01-05 05:14:25,022 :INFO : PytestesDemo.test_logging : Information Statement
+2024-01-05 05:14:25,022 :WARNING : PytestesDemo.test_logging : Something is in warning mode
+2024-01-05 05:14:25,022 :ERROR : PytestesDemo.test_logging : A major error has happend
+2024-01-05 05:14:25,022 :CRITICAL : PytestesDemo.test_logging : Critical Issue
